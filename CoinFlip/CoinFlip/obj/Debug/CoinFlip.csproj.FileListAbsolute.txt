@@ -1,0 +1,9 @@
+D:\c# tutorial\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe.config
+D:\c# tutorial\CoinFlip\CoinFlip\bin\Debug\CoinFlip.exe
+D:\c# tutorial\CoinFlip\CoinFlip\bin\Debug\CoinFlip.pdb
+D:\c# tutorial\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csprojResolveAssemblyReference.cache
+D:\c# tutorial\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Form1.resources
+D:\c# tutorial\CoinFlip\CoinFlip\obj\Debug\CoinFlip.Properties.Resources.resources
+D:\c# tutorial\CoinFlip\CoinFlip\obj\Debug\CoinFlip.csproj.GenerateResource.Cache
+D:\c# tutorial\CoinFlip\CoinFlip\obj\Debug\CoinFlip.exe
+D:\c# tutorial\CoinFlip\CoinFlip\obj\Debug\CoinFlip.pdb
